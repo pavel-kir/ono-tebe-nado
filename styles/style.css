@@ -5,7 +5,7 @@
   place-items: center;
 }
 .header__menu {
-  padding-left: 20px;   
+  padding-left: 20px;
 }
 .header__links-list {
   display: flex;
@@ -71,10 +71,10 @@
 }
 .aligned-text_center {
   text-align: center;
-  line-height: 100%;  
+  line-height: 100%;
 }
 .aligned-text_right {
-  line-height: 100%;  
+  line-height: 100%;
   text-align: end;
   margin-bottom: 0;
 }
